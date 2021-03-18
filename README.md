@@ -2,6 +2,7 @@
 Taki sobie bot
 # Komendy
 t?status - zmienia status bota na podane argumenty(jesli argument ma wiecej niz 1 wyraz to umiesc go w "")
+t?stitch = losuje randomowego stitcha
 # Instalacja
 Pobierz Python z [stąd](https://python.org/)
 Następnie sklonuj/pobierz to repo.
@@ -11,3 +12,5 @@ Gotowe!
 
 Jesli masz pytania dotyczące bota, pisz [tutaj](https://github.com/reksio2947LOL/StitchBOT/issues)!
 Powodzenia!
+
+PS Daj powiadomienia dla tego repo/mnie aby byc na biezaco z aktualizacjami!
