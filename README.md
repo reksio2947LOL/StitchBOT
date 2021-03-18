@@ -1,0 +1,2 @@
+# StitchBOT
+Taki sobie bot
