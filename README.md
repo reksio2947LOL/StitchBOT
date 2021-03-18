@@ -19,4 +19,5 @@ Jesli masz pytania dotyczące bota, pisz [tutaj](https://github.com/reksio2947LO
 
 Powodzenia!
 
+
 PS Daj powiadomienia dla tego repo/mnie aby byc na biezaco z aktualizacjami!
