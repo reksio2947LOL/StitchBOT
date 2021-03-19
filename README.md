@@ -16,7 +16,7 @@ Jeśli nie masz jeszcze discord.py, to wpisz:
 ```
 pip install -U discord.py
 ```
-Teraz w cmd który jest na lokalizacji bota wpisz 
+Teraz w cmd który jest na lokalizacji bota(można użyć `cd` lub czegoś innego) wpisz 
 ```
 python main.py
 ```
