@@ -11,8 +11,19 @@ Następnie sklonuj/pobierz to repo.
 
 Teraz wejdź do pliku main.py i zamień TOKEN(2 linia) na swój token!
 
-Teraz w cmd który jest na lokalizacji bota wpisz python main.py / python3 main.py
+Jeśli nie masz jeszcze discord.py, to wpisz:
 
+```
+pip install -U discord.py
+```
+Teraz w cmd który jest na lokalizacji bota wpisz 
+```
+python main.py
+```
+lub
+```
+python3 main.py
+```
 Gotowe!
 
 Jesli masz pytania dotyczące bota, pisz [tutaj](https://github.com/reksio2947LOL/StitchBOT/issues)!
