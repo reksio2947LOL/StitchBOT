@@ -3,7 +3,7 @@ TOKEN = 'TWÓJ TOKEN'
 
 from discord.ext import commands
 import discord 
-from random import randint, choice
+from random import choice
 
 bot = commands.Bot(command_prefix=PREFIX)
 bot.remove_command('help')
