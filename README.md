@@ -1,4 +1,4 @@
-![discord.py](https://img.shields.io/badge/Using-discord.py-success)
+![discord.py](https://img.shields.io/badge/Using-discord.py-success) ![discord](https://img.shields.io/badge/Discord%3A%20-JustRex%237425-informational)
 # StitchBOT
 Taki sobie bot
 # Komendy
