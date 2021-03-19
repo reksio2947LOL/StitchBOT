@@ -1,3 +1,4 @@
+![discord.py](https://img.shields.io/badge/Using-discord.py-success)
 # StitchBOT
 Taki sobie bot
 # Komendy
